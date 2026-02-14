@@ -174,7 +174,7 @@ enableRobotsTXT = true
     ## Feed display settings
     [params.feed]
         ## Enable flowlines
-        flowlines = false
+        flowlines = true
         ## Limit number of flowlines
         flowlinesLimit = 21
 
