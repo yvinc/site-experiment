@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Posts on My Experimental Site</title>
+    <link>http://localhost:1313/categories/posts/</link>
+    <description>Recent Posts in Posts on My Experimental Site</description>
+    <generator>Hugo 0.155.3</generator>
+    <language>en-us</language>
+    <managingEditor>imvincy@outlook.com (Vincy Huang)</managingEditor>
+    <webMaster>imvincy@outlook.com (Vincy Huang)</webMaster>
+    <lastBuildDate>Fri, 13 Feb 2026 22:38:32 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/2025-02/my-second-post/</link>
+      <pubDate>Fri, 13 Feb 2026 14:51:02 -0800</pubDate>
+      <author>imvincy@outlook.com (Vincy Huang)</author>
+      <dc:creator>Vincy Huang</dc:creator>
+      <guid>http://localhost:1313/posts/2025-02/my-second-post/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+      <category>Posts</category>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/2025-02/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>imvincy@outlook.com (Vincy Huang)</author>
+      <dc:creator>Vincy Huang</dc:creator>
+      <guid>http://localhost:1313/posts/2025-02/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;p&gt;This is my first paragraph in my first post!&lt;/p&gt;</description>
+      <content:encoded>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;p&gt;This is my first paragraph in my first post!&lt;/p&gt;&#xA;</content:encoded>
+      <category>Posts</category>
+    </item>
+  </channel>
+</rss>

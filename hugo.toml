@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Experimental Site'
+
+theme = 'hugo-brewm'  # MUST match the directory name in /themes/
+
