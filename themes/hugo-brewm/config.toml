@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = 'https://foxihd.github.io/hugo-brewm/'
+#baseURL = 'https://foxihd.github.io/hugo-brewm/'
 ## Site title
 title = 'Example'
 
