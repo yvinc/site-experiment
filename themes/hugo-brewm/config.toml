@@ -112,7 +112,7 @@ enableRobotsTXT = true
     ## Site description
     description = "An Experimental Site built with Hugo & Hugo-Brewm theme"
     ## Copyright notice
-    copyright = "All rights reserved"
+    copyright = "All rights reserved; Vincy Huang"
     ## Hide "powered by hugo" on colophon
     # HideHugoCredit = true
     ## Enable extended metadata (social cards)
@@ -174,7 +174,7 @@ enableRobotsTXT = true
     ## Feed display settings
     [params.feed]
         ## Enable flowlines
-        flowlines = false
+        flowlines = true
         ## Limit number of flowlines
         flowlinesLimit = 21
 
@@ -242,10 +242,7 @@ enableRobotsTXT = true
 
         ## Enable OpenGraph
         # opengraph = true
-        ## Facebook App ID
-        # facebookAppID = "123456789"
-        ## Facebook Admin ID
-        # facebookAdmin = "USER_ID"
+
 
         ## Schema.org (only meta, not fully supported)
         # schema = true
