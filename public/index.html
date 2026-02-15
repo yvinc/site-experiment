@@ -45,11 +45,6 @@
         img {max-width: 86vw;}
     </style>
     <!-- list.html [head] -->
-        <style>
-            body{margin:auto!important;max-width:2560px!important}body::-webkit-scrollbar{display:none!important}body>footer.pagewidth,body>header.pagewidth{padding:0 calc(1.5rem + 1ex)}body>aside.has-crsl{position:sticky;position:-webkit-sticky;left:0;float:left;padding:1rem;width:38vw;height:var(--vbody)}body>main#home{height:var(--vbody);min-height:unset;overflow-y:auto}body>main#home>aside#list-tags{top:0;right:0;margin:1rem auto;width:calc(100% - var(--golden-ratio))}#home #top{padding:0 1rem}#home #list-posts{padding:1rem}div[role="feed"]{padding:0 1ex}.has-crsl .feed-item,#home .feed-item,hr.ldots{width:unset}#main-footer>.pagewidth{padding:0}#i18n-menu>.on-plank,#more-menu>.on-plank,#duckduckgo,.pagefind-ui{margin-right:1rem}#has-search-fallback.pagewidth{padding-right:1rem}#grain,a.section-title::after{display:none}@media (max-width:960px){body>aside.has-crsl{float:unset;padding:0;width:unset}body>main#home{height:unset;overflow-y:unset}aside + main#home{margin-top:var(--vhead)}body>main#home>aside#list-tags{top:var(--vhead)}}@media (max-width:640px){body>main#home>aside#list-tags,#home #list-posts{margin:var(--bigskip) auto;padding:0 var(--void);width:var(--golden-ratio)}div[role="feed"]{padding:0}.form.on-plank,.pagefind-ui{margin-right:1ex}}
-            .crsl__nav{display:flex;position:absolute;right:2rem;bottom:1rem;justify-content:flex-end;z-index:1;width:calc(100% - 4rem);font-size:var(--small)}aside .crsl{scroll-snap-type:x mandatory}.slide>.crsl__nav{bottom:0}.crsl__nav>ul{overflow-x:auto;white-space:nowrap}.crsl nav a{display:flex;z-index:2;font-size:var(--small)}.slide__cover{flex:1 1 40%;padding:1.5rem 0 3.6rem 1.5rem;height:100%;max-height:1024px}.slide__content{margin-bottom:auto;padding:0 2rem;width:100%;max-height:calc(100% - 3.6rem);overflow-y:auto}.slide__content h1.section-title{margin:0!important;padding:var(--smallskip) 0 1ex;font-size:var(--Large)}.slide__content h2{font-size:var(--large)}.slide__content h3{font-size:var(--normalsize)}.slide__content p,.slide__content ul,.slide__content ol{max-width:36rem}.slide__content .footnotes p,.slide__cover + .slide__content p{max-width:unset}.slide__cover + .slide__content{flex:1 1 60%;margin-bottom:5rem;height:unset}.slide__cover img{border-radius:1ex;width:100%;height:100%;object-fit:cover}.slide>nav a{text-transform:uppercase;letter-spacing:.1em;color:var(--fg)}@media (max-width:960px){aside.has-crsl{width:unset}}@media (max-width:640px){.crsl__nav{right:0;bottom:0;width:100%}.slide__cover img,.crsl__nav + .crsl,.slide__content{height:calc(100% - 3rem)}.slide>.crsl__nav{position:sticky;position:-webkit-sticky;padding-right:2ex}aside .crsl>div,aside .crsl>section,aside .slide{flex-direction:column;justify-content:end;height:100%;overflow-x:hidden;overflow-y:auto}.slide__cover{padding:unset;height:unset}.slide__cover img{position:absolute;left:0;border-radius:1ex;padding:1rem;max-width:100%}.crsl__nav + .crsl .slide__cover img{height:100%}.slide__content{padding:1rem 2rem;max-height:unset}.crsl__nav + .crsl .slide__content:first-child{margin-bottom:1rem}.slide__cover + .slide__content{flex:unset;z-index:0;margin:1rem 2rem 2rem;border-radius:1ex;background:var(--bg);padding:1rem;width:auto}.slide__cover + .slide__content.white{background:none;color:#fff}.slide__cover + .slide__content.black{background:none;color:#000}.crsl__nav>ul.rounded{padding:1ex;width:100%;text-align:right}}
-                #home #list-posts{max-width:var(--max-width)}#list-tags nav{max-width:36rem}@media (min-width:1421px){body>main#home>aside#list-tags{width:calc(100% - 36rem);padding:0 var(--bigskip)}}
-        </style>
 </head>
 <body>
     <!-- header.html -->
@@ -144,162 +139,6 @@
 </header>
     
         <!-- carousel.html -->
-        <aside class="has-crsl">
-
-            <div class="crsl">
-                    <section id="slide-1" class="slide"
-                        aria-labelledby="slide-1__heading">
-                        <div class="slide__cover">
-                            <img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/28.svg"
-                                alt="" >
-                        </div>
-                        <div class="slide__content content ">
-                                <h1 id="slide-1__heading" class="section-title">Welcome to my experimental site!</h1>
-                            <div>
-                                    <p>To create this page, add a markdown <code>.md</code> file into <code>content/</code> folder.</p>
-<p>You can adjust the cover image by changing the link in the <code>cover</code> link in markdown&rsquo;s format section.</p>
-<p>You can adjust the type of the markdown file by changing the <code>type</code> in the format section.</p>
-<blockquote>
-<p>Currently, this section is set to <code>type: 'slide'</code>. You can swipe to left to display the second slide!</p>
-</blockquote>
-<p>Posts in <code>.md</code> are placed within <code>content/posts/</code>. You can adjust their <code>categories = </code> format entry to display them in the Categories slider right below this slide.</p>
-<p>Please see <code>themes/hugo-brewm/exampleSite/</code> folder structure for reference.</p>
-
-                            </div>
-                        </div>
-                            <nav class="crsl__nav">
-                                    
-                                        <a href="#slide-2" rel="next" role="button" aria-controls="slide-2">
-                                            <span>Second Slide</span>
-                                        </a>
-                            </nav>
-                    </section>
-                    <section id="slide-2" class="slide"
-                        aria-labelledby="slide-2__heading">
-                        <div class="slide__content content ">
-                                <h1 id="slide-2__heading" class="section-title">Second Slide</h1>
-                            <div>
-                                    <p>This is a slide with <code>{{&lt; pin &gt;}}</code> shortcode.</p>
-<h2 id="pin-it-as-showcase-example">Pin it as Showcase (Example)</h2>
-<p>Section with <code>{{&lt; pin &gt;}}</code> shortcode.
-The item order is column-based.
-If images are not square, the layout will displayed as masonry style.</p>
-<p><div class="column pin">
-
-
-        <div role="figure"><img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/1.svg" alt="Item 1" loading="lazy">
-                <figcaption>
-                    Item 1
-                </figcaption>
-            </div>
-
-
-        <div role="figure"><img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/2.svg" alt="Item 2" loading="lazy">
-                <figcaption>
-                    Item 2
-                </figcaption>
-            </div>
-
-
-        <div role="figure"><img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/3.svg" alt="Item 3" loading="lazy">
-                <figcaption>
-                    Item 3
-                </figcaption>
-            </div>
-
-
-        <div role="figure"><img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/4.svg" alt="Item 4" loading="lazy">
-                <figcaption>
-                    Item 4
-                </figcaption>
-            </div>
-
-
-        <div role="figure"><img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/5.svg" alt="Item 5" loading="lazy">
-                <figcaption>
-                    Item 5
-                </figcaption>
-            </div>
-
-
-        <div role="figure"><img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/6.svg" alt="Item 6" loading="lazy">
-                <figcaption>
-                    Item 6
-                </figcaption>
-            </div>
-
-</div></p>
-<h2 id="pin-it-as-catalogue-example">Pin it as Catalogue (Example)</h2>
-<p><code>{{&lt; pin &gt;}}</code> shortcode with <code>quote</code> parameter.</p>
-<p><div class="column pin">
-
-
-        <div>
-        <a href="#my-ecommerce" class="has-img has-aria-label has-quote"
-             aria-label="Item 1">
-            <div><s>$299</s> $199</div>
-             <img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/7.svg" alt="Item 1" loading="lazy">
-        </a>
-        </div>
-
-
-        <div>
-        <a href="#my-ecommerce" class="has-img has-aria-label has-quote"
-             aria-label="Item 2">
-            <div><s>$399</s> $299</div>
-             <img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/8.svg" alt="Item 2" loading="lazy">
-        </a>
-        </div>
-
-
-        <div>
-        <a href="#my-ecommerce" class="has-img has-aria-label has-quote"
-             aria-label="Item 3">
-            <div>Get Quote</div>
-             <img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/9.svg" alt="Item 3" loading="lazy">
-        </a>
-        </div>
-
-
-        <div>
-        <a href="#my-ecommerce" class="has-img has-aria-label has-quote"
-             aria-label="Item 4">
-            <div><s>$299</s> $199</div>
-             <img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/10.svg" alt="Item 4" loading="lazy">
-        </a>
-        </div>
-
-
-        <div>
-        <a href="#my-ecommerce" class="has-img has-aria-label has-quote"
-             aria-label="Item 5">
-            <div><s>$399</s> $299</div>
-             <img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/11.svg" alt="Item 5" loading="lazy">
-        </a>
-        </div>
-
-
-        <div>
-        <a href="#my-ecommerce" class="has-img has-aria-label has-quote"
-             aria-label="Item 6">
-            <div>Out of stock</div>
-             <img src="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/12.svg" alt="Item 6" loading="lazy">
-        </a>
-        </div>
-
-</div></p>
-
-                            </div>
-                        </div>
-                            <nav class="crsl__nav">
-                                    
-                                        <a href="#slide-1" rel="prev" role="button" aria-controls="slide-1">
-                                            <span>Welcome to my experimental site!</span>
-                                        </a>
-                            </nav>
-                    </section>
-            </div>
-        </aside>
         <hr class="hide"/>
     <!-- [main] baseof.html -->
     <main id="home">
@@ -314,7 +153,7 @@ If images are not square, the layout will displayed as masonry style.</p>
             <!-- taxonomies.html -->
         <ul class="crsl" role="presentation">
             
-                    <li class="srs" style="--img: url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/5.svg);">
+                    <li class="srs" style="--img: url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/15.svg);">
                         <a href="http://localhost:1313/categories/posts/"
                             aria-label="Category: Posts"
                             aria-description="2 Posts"
@@ -323,7 +162,7 @@ If images are not square, the layout will displayed as masonry style.</p>
                             <span>Posts</span>
                         </a>
                     </li>
-                    <li class="srs" style="--img: url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/10.svg);">
+                    <li class="srs" style="--img: url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/16.svg);">
                         <a href="http://localhost:1313/categories/format/"
                             aria-label="Category: Format"
                             aria-description="1 Post"
@@ -332,7 +171,7 @@ If images are not square, the layout will displayed as masonry style.</p>
                             <span>Format</span>
                         </a>
                     </li>
-                    <li class="srs" style="--img: url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/18.svg);">
+                    <li class="srs" style="--img: url(https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/20.svg);">
                         <a href="http://localhost:1313/categories/just-for-fun/"
                             aria-label="Category: Just for Fun"
                             aria-description="1 Post"
