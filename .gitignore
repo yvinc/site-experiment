@@ -4,8 +4,6 @@ __pycache__/
 *$py.class
 .DS_Store
 # public/ # public/ should not be removed
-resources/
-node_modules/
 
 # C extensions
 *.so
