@@ -2,7 +2,7 @@
 draft = false
 title = 'My Third Post'
 tags = ["For fun"]
-categories = ["Just for fun"]           # optional, but useful
+categories = ["About me"]           # optional, but useful
 +++
 # What is Lorem Ipsum?
 **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
