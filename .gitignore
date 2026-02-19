@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 .DS_Store
-public/
+# public/ # public/ should not be removed
 resources/
 node_modules/
 
