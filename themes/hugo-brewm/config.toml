@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = 'https://yvinc.github.io/site-experiment/'
+baseURL = 'https://yvinc.github.io/site-experiment'
 ## Site title
 title = 'Example'
 
