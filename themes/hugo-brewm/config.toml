@@ -105,7 +105,7 @@ enableRobotsTXT = true
     ## Author taxonomy
     author = "author"
 
-## Site parameters
+## Site parameters ***
 [params]
     ## Site title
     title = "My Experimental Site"

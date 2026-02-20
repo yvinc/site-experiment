@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Categories on My Experimental Site</title><link>/categories/</link><description>Recent Posts in Categories on My Experimental Site</description><generator>Hugo 0.155.3</generator><language>en-us</language><managingEditor>imvincy@outlook.com (Vincy Huang)</managingEditor><webMaster>imvincy@outlook.com (Vincy Huang)</webMaster><lastBuildDate>Thu, 19 Feb 2026 17:03:55 -0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>/categories/posts/</link><pubDate>Fri, 13 Feb 2026 14:51:02 -0800</pubDate><author>imvincy@outlook.com (Vincy Huang)</author><dc:creator>Vincy Huang</dc:creator><guid>/categories/posts/</guid><description/><content:encoded/></item><item><title>About Me</title><link>/categories/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>imvincy@outlook.com (Vincy Huang)</author><dc:creator>Vincy Huang</dc:creator><guid>/categories/about-me/</guid><description/><content:encoded/></item><item><title>Format</title><link>/categories/format/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>imvincy@outlook.com (Vincy Huang)</author><dc:creator>Vincy Huang</dc:creator><guid>/categories/format/</guid><description/><content:encoded/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Categories on My Experimental Personal Site</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent Posts in Categories on My Experimental Personal Site</description>
+    <generator>Hugo 0.155.3</generator>
+    <language>en-us</language>
+    <managingEditor>imvincy@outlook.com (Vincy Huang)</managingEditor>
+    <webMaster>imvincy@outlook.com (Vincy Huang)</webMaster>
+    <lastBuildDate>Thu, 19 Feb 2026 18:12:49 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>//localhost:1313/categories/posts/</link>
+      <pubDate>Fri, 13 Feb 2026 14:51:02 -0800</pubDate>
+      <author>imvincy@outlook.com (Vincy Huang)</author>
+      <dc:creator>Vincy Huang</dc:creator>
+      <guid>//localhost:1313/categories/posts/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/categories/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>imvincy@outlook.com (Vincy Huang)</author>
+      <dc:creator>Vincy Huang</dc:creator>
+      <guid>//localhost:1313/categories/about-me/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>Format</title>
+      <link>//localhost:1313/categories/format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>imvincy@outlook.com (Vincy Huang)</author>
+      <dc:creator>Vincy Huang</dc:creator>
+      <guid>//localhost:1313/categories/format/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+  </channel>
+</rss>

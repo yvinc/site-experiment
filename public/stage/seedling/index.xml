@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>seedling on My Experimental Site</title><link>/stage/seedling/</link><description>Recent Posts in seedling on My Experimental Site</description><generator>Hugo 0.155.3</generator><language>en-us</language><managingEditor>imvincy@outlook.com (Vincy Huang)</managingEditor><webMaster>imvincy@outlook.com (Vincy Huang)</webMaster><lastBuildDate>Thu, 19 Feb 2026 17:03:55 -0800</lastBuildDate><atom:link href="/stage/seedling/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>seedling on My Experimental Personal Site</title>
+    <link>//localhost:1313/stage/seedling/</link>
+    <description>Recent Posts in seedling on My Experimental Personal Site</description>
+    <generator>Hugo 0.155.3</generator>
+    <language>en-us</language>
+    <managingEditor>imvincy@outlook.com (Vincy Huang)</managingEditor>
+    <webMaster>imvincy@outlook.com (Vincy Huang)</webMaster>
+    <lastBuildDate>Thu, 19 Feb 2026 18:12:49 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/stage/seedling/index.xml" rel="self" type="application/rss+xml" />
+        
+  </channel>
+</rss>

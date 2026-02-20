@@ -1,3 +1,13 @@
 languageCode = 'en-us'
-title = 'My Experimental Site'
+title = 'My Experimental Personal Site'
 theme = 'hugo-brewm'  # MUST match the directory name in /themes/
+
+[params]
+    ## Search configuration
+    [params.search]
+        ## Enable search functionality, please index your site first
+        enable = true
+        ## Use pagefind search when javascript enabled, currently only 'pagefind' is supported, further options to be determined
+        pagefind = true
+        ## fallback searchbox when javascript disabled, currently the options limited to 'mojeek', otherwise duckduckgo will be used
+        # fallback = 'mojeek'

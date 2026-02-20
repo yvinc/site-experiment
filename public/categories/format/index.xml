@@ -1,39 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Format on My Experimental Site</title><link>/categories/format/</link><description>Recent Posts in Format on My Experimental Site</description><generator>Hugo 0.155.3</generator><language>en-us</language><managingEditor>imvincy@outlook.com (Vincy Huang)</managingEditor><webMaster>imvincy@outlook.com (Vincy Huang)</webMaster><lastBuildDate>Thu, 19 Feb 2026 17:03:55 -0800</lastBuildDate><atom:link href="/categories/format/index.xml" rel="self" type="application/rss+xml"/><item><title>Formatting Markdown</title><link>/posts/2025-02/how-to-format/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>imvincy@outlook.com (Vincy Huang)</author><dc:creator>Vincy Huang</dc:creator><guid>/posts/2025-02/how-to-format/</guid><description>&lt;h1 id="on-configuration-settings--themeshugo-brewmcongiftoml"&gt;On configuration settings – &lt;code&gt;themes/hugo-brewm/congif.toml&lt;/code&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;title = &amp;lsquo;Example&amp;rsquo; changes the top left icon.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="go-to-site-parameters-section"&gt;Go to &lt;code&gt;Site parameters&lt;/code&gt; section:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Change any field that requires customization.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="go-to-author-information-section"&gt;Go to &lt;code&gt;Author information&lt;/code&gt; section:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Change any field to fill in author info for this site.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="go-to-comments-configuration-section"&gt;Go to &lt;code&gt;comments configuration&lt;/code&gt; section:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;You can enable / disable comments .&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="go-to-logo-configuration"&gt;Go to &lt;code&gt;Logo configuration&lt;/code&gt;:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Insert new logo mark.&lt;/li&gt;
-&lt;/ul&gt;</description><content:encoded>&lt;h1 id="on-configuration-settings--themeshugo-brewmcongiftoml"&gt;On configuration settings – &lt;code&gt;themes/hugo-brewm/congif.toml&lt;/code&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;title = &amp;lsquo;Example&amp;rsquo; changes the top left icon.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="go-to-site-parameters-section"&gt;Go to &lt;code&gt;Site parameters&lt;/code&gt; section:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Change any field that requires customization.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="go-to-author-information-section"&gt;Go to &lt;code&gt;Author information&lt;/code&gt; section:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Change any field to fill in author info for this site.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="go-to-comments-configuration-section"&gt;Go to &lt;code&gt;comments configuration&lt;/code&gt; section:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;You can enable / disable comments .&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="go-to-logo-configuration"&gt;Go to &lt;code&gt;Logo configuration&lt;/code&gt;:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Insert new logo mark.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded><category>Format</category></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Format on My Experimental Personal Site</title>
+    <link>//localhost:1313/categories/format/</link>
+    <description>Recent Posts in Format on My Experimental Personal Site</description>
+    <generator>Hugo 0.155.3</generator>
+    <language>en-us</language>
+    <managingEditor>imvincy@outlook.com (Vincy Huang)</managingEditor>
+    <webMaster>imvincy@outlook.com (Vincy Huang)</webMaster>
+    <lastBuildDate>Thu, 19 Feb 2026 18:12:49 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formatting Markdown</title>
+      <link>//localhost:1313/posts/2025-02/how-to-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>imvincy@outlook.com (Vincy Huang)</author>
+      <dc:creator>Vincy Huang</dc:creator>
+      <guid>//localhost:1313/posts/2025-02/how-to-format/</guid>
+      <description>&lt;h1 id=&#34;on-configuration-settings--themeshugo-brewmcongiftoml&#34;&gt;On configuration settings – &lt;code&gt;themes/hugo-brewm/congif.toml&lt;/code&gt;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;title = &amp;lsquo;Example&amp;rsquo; changes the top left icon.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;go-to-site-parameters-section&#34;&gt;Go to &lt;code&gt;Site parameters&lt;/code&gt; section:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Change any field that requires customization.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;go-to-author-information-section&#34;&gt;Go to &lt;code&gt;Author information&lt;/code&gt; section:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Change any field to fill in author info for this site.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;go-to-comments-configuration-section&#34;&gt;Go to &lt;code&gt;comments configuration&lt;/code&gt; section:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You can enable / disable comments .&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;go-to-logo-configuration&#34;&gt;Go to &lt;code&gt;Logo configuration&lt;/code&gt;:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Insert new logo mark.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <content:encoded>&lt;h1 id=&#34;on-configuration-settings--themeshugo-brewmcongiftoml&#34;&gt;On configuration settings – &lt;code&gt;themes/hugo-brewm/congif.toml&lt;/code&gt;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;title = &amp;lsquo;Example&amp;rsquo; changes the top left icon.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;go-to-site-parameters-section&#34;&gt;Go to &lt;code&gt;Site parameters&lt;/code&gt; section:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Change any field that requires customization.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;go-to-author-information-section&#34;&gt;Go to &lt;code&gt;Author information&lt;/code&gt; section:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Change any field to fill in author info for this site.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;go-to-comments-configuration-section&#34;&gt;Go to &lt;code&gt;comments configuration&lt;/code&gt; section:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You can enable / disable comments .&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;go-to-logo-configuration&#34;&gt;Go to &lt;code&gt;Logo configuration&lt;/code&gt;:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Insert new logo mark.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</content:encoded>
+      <category>Format</category>
+    </item>
+  </channel>
+</rss>
